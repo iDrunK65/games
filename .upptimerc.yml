@@ -9,9 +9,9 @@ sites:
     url: http://game01.idrunk.fr
   - name: Game 02
     url: http://game02.idrunk.fr
-  - name: Game 03
+  - name: Game 03 - Uranium
     url: http://game03.idrunk.fr
-  - name: Game 04
+  - name: Game 04 - Tsuki
     url: http://game04.idrunk.fr
     
 
@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: idrunk65.github.io/games
   baseUrl: /games
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.discordapp.com/emojis/880113406915538995.webp
   name: iUptime
   introTitle: ""
   introMessage: ""

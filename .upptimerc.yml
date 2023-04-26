@@ -6,13 +6,13 @@ sites:
   - name: Panel
     url: https://games.idrunk.fr
   - name: Game 01
-    url: https://game01.idrunk.fr
+    url: http://game01.idrunk.fr
   - name: Game 02
-    url: https://game02.idrunk.fr
+    url: http://game02.idrunk.fr
   - name: Game 03
-    url: https://game03.idrunk.fr
+    url: http://game03.idrunk.fr
   - name: Game 04
-    url: https://game04.idrunk.fr
+    url: http://game04.idrunk.fr
     
 
 status-website:

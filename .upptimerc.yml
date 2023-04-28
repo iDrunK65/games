@@ -27,7 +27,7 @@ status-website:
   navbar:
     - title: Status
       href: /games
-    - title: Pannel
+    - title: Panel
       href: https://games.idrunk.fr
 i18n:
   activeIncidents: Incidents en cours

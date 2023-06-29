@@ -42,18 +42,19 @@
     "url": "http://game02.idrunk.fr",
     "icon": "https://icons.duckduckgo.com/ip3/game02.idrunk.fr.ico",
     "slug": "game-02",
-    "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.56%",
     "time": 310,
     "timeDay": 370,
     "timeWeek": 271,
     "timeMonth": 333,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2023-06-29": 0,
       "2023-04-27": 632,
       "2023-04-26": 698
     }

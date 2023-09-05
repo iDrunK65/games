@@ -7,8 +7,8 @@ sites:
     url: https://games.idrunk.fr
   - name: Game 01
     url: http://game01.idrunk.fr
-  - name: Game 02
-    url: http://game02.idrunk.fr
+#  - name: Game 02
+#    url: http://game02.idrunk.fr
   - name: Game 03 - Uranium
     url: http://game03.idrunk.fr
   - name: Game 04 - Tsuki

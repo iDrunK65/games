@@ -26,8 +26,8 @@
     "slug": "game-01",
     "status": "up",
     "uptime": "93.61%",
-    "uptimeDay": "0.54%",
-    "uptimeWeek": "0.08%",
+    "uptimeDay": "1.18%",
+    "uptimeWeek": "0.17%",
     "uptimeMonth": "68.16%",
     "uptimeYear": "93.61%",
     "time": 349,
@@ -55,19 +55,19 @@
     "url": "https://game03.idrunk.fr",
     "icon": "https://icons.duckduckgo.com/ip3/game03.idrunk.fr.ico",
     "slug": "game-03-uranium",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 392,
-    "timeWeek": 290,
-    "timeMonth": 285,
-    "timeYear": 291,
+    "time": 292,
+    "timeDay": 377,
+    "timeWeek": 297,
+    "timeMonth": 287,
+    "timeYear": 292,
     "dailyMinutesDown": {
-      "2023-09-25": 0
+      "2023-09-25": 9
     }
   },
   {
@@ -77,9 +77,9 @@
     "slug": "game-04-tsuki",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 346,
@@ -87,7 +87,7 @@
     "timeMonth": 278,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-09-25": 0
+      "2023-09-25": 10
     }
   },
   {
@@ -114,18 +114,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.bryan.idrunk.fr.ico",
     "slug": "bryan-tm-game-01",
     "status": "down",
-    "uptime": "4.24%",
-    "uptimeDay": "4.24%",
-    "uptimeWeek": "4.24%",
-    "uptimeMonth": "4.24%",
-    "uptimeYear": "4.24%",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-25": 0
+      "2023-09-25": 9
     }
   }
 ]

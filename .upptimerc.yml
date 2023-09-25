@@ -6,7 +6,10 @@ sites:
   - name: Panel
     url: https://games.idrunk.fr
   - name: Game 01
-    url: http://game01.idrunk.fr
+    url: https://game01.idrunk.fr
+    expectedStatusCodes:
+      - 200
+      - 401
 #  - name: Game 02
 #    url: http://game02.idrunk.fr
   - name: Game 03 - Uranium

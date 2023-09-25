@@ -13,10 +13,22 @@ sites:
 #  - name: Game 02
 #    url: http://game02.idrunk.fr
   - name: Game 03 - Uranium
-    url: http://game03.idrunk.fr
+    url: https://game03.idrunk.fr
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Game 04 - Tsuki
-    url: http://game04.idrunk.fr
-    
+    url: https://game04.idrunk.fr
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: BryanTM - Panel
+    url: https://bryan.idrunk.fr
+  - name: BryanTM - Game 01
+    url: https://game.bryan.idrunk.fr
+    expectedStatusCodes:
+      - 200
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

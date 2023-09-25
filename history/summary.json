@@ -26,8 +26,8 @@
     "slug": "game-01",
     "status": "up",
     "uptime": "93.61%",
-    "uptimeDay": "1.18%",
-    "uptimeWeek": "0.17%",
+    "uptimeDay": "2.34%",
+    "uptimeWeek": "0.33%",
     "uptimeMonth": "68.16%",
     "uptimeYear": "93.61%",
     "time": 349,
@@ -57,37 +57,35 @@
     "slug": "game-03-uranium",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
     "timeDay": 377,
     "timeWeek": 297,
     "timeMonth": 287,
     "timeYear": 292,
-    "dailyMinutesDown": {
-      "2023-09-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Game 04 - Tsuki",
     "url": "https://game04.idrunk.fr",
     "icon": "https://icons.duckduckgo.com/ip3/game04.idrunk.fr.ico",
     "slug": "game-04-tsuki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 346,
-    "timeWeek": 258,
-    "timeMonth": 278,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 284,
+    "timeDay": 380,
+    "timeWeek": 279,
+    "timeMonth": 283,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-09-25": 10
+      "2023-09-25": 26
     }
   },
   {
@@ -114,18 +112,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.bryan.idrunk.fr.ico",
     "slug": "bryan-tm-game-01",
     "status": "down",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-25": 9
+      "2023-09-25": 26
     }
   }
 ]

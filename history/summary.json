@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 573,
-    "timeDay": 827,
-    "timeWeek": 728,
-    "timeMonth": 650,
+    "timeDay": 568,
+    "timeWeek": 708,
+    "timeMonth": 647,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2023-09-15": 92
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/game01.idrunk.fr.ico",
     "slug": "game-01",
     "status": "up",
-    "uptime": "94.68%",
+    "uptime": "94.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.68%",
+    "uptimeYear": "94.71%",
     "time": 383,
-    "timeDay": 774,
-    "timeWeek": 594,
-    "timeMonth": 551,
+    "timeDay": 389,
+    "timeWeek": 560,
+    "timeMonth": 543,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2023-09-25": 866,
@@ -62,9 +62,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.95%",
     "time": 331,
-    "timeDay": 626,
-    "timeWeek": 552,
-    "timeMonth": 510,
+    "timeDay": 382,
+    "timeWeek": 535,
+    "timeMonth": 506,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2023-10-21": 123
@@ -82,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 321,
-    "timeDay": 674,
-    "timeWeek": 573,
-    "timeMonth": 498,
+    "timeDay": 449,
+    "timeWeek": 549,
+    "timeMonth": 492,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2023-09-25": 26
@@ -101,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 675,
-    "timeWeek": 612,
-    "timeMonth": 560,
-    "timeYear": 567,
+    "time": 566,
+    "timeDay": 529,
+    "timeWeek": 599,
+    "timeMonth": 559,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   },
   {
@@ -119,11 +119,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 484,
-    "timeDay": 609,
-    "timeWeek": 536,
-    "timeMonth": 477,
-    "timeYear": 484,
+    "time": 480,
+    "timeDay": 363,
+    "timeWeek": 513,
+    "timeMonth": 472,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2023-09-25": 28
     }

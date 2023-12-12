@@ -12,11 +12,11 @@ sites:
       - 401
 #  - name: Game 02
 #    url: http://game02.idrunk.fr
-  - name: Game 03 - Uranium
-    url: https://game03.idrunk.fr
-    expectedStatusCodes:
-      - 200
-      - 401
+#  - name: Game 03 - Uranium
+#    url: https://game03.idrunk.fr
+ #   expectedStatusCodes:
+#      - 200
+#      - 401
   - name: Game 04 - Tsuki
     url: https://game04.idrunk.fr
     expectedStatusCodes:

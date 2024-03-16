@@ -3,28 +3,16 @@ owner: idrunk65 # Your GitHub organization or username, where this repository li
 repo: games # The name of this repository
 
 sites:
-  - name: Panel
-    url: https://games.idrunk.fr
-  - name: Game 01
-    url: https://game01.idrunk.fr
-    expectedStatusCodes:
-      - 200
-      - 401
-#  - name: Game 02
-#    url: http://game02.idrunk.fr
-#  - name: Game 03 - Uranium
-#    url: https://game03.idrunk.fr
- #   expectedStatusCodes:
-#      - 200
-#      - 401
-  - name: Game 04 - Tsuki
-    url: https://game04.idrunk.fr
+  - name: Tsuki - Panel
+    url: https://panel.tsukihomura.fr
+  - name: Tsuki - Node 1
+    url: https://play.tsukihomura.fr
     expectedStatusCodes:
       - 200
       - 401
   - name: BryanTM - Panel
     url: https://bryan.idrunk.fr
-  - name: BryanTM - Game 01
+  - name: BryanTM - Node 1
     url: https://game.bryan.idrunk.fr
     expectedStatusCodes:
       - 200

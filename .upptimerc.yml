@@ -6,7 +6,7 @@ sites:
   - name: Tsuki - Panel
     url: https://panel.tsukihomura.fr
   - name: Tsuki - Node 1
-    url: https://play.tsukihomura.fr
+    url: https://play.tsukihomura.fr:8080
     expectedStatusCodes:
       - 200
       - 401
